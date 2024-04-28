@@ -1,0 +1,7 @@
+npm install --save-dev selenium-webdriver
+npm install --chromedriver
+npm install --save-dev jest
+
+
+//to include dependencies
+npm init -y
